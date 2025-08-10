@@ -6,7 +6,7 @@ import { resolve } from "path";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://mateocastanodev.github.io',
-  base: '/mateocastanodev.github.io',
+  base: '/',
   output: 'static',
   vite: {
     plugins: [tailwindcss()],
