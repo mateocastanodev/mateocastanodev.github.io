@@ -5,7 +5,7 @@ import { resolve } from "path";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://mateocastanodev.github.io',
+  site: 'https://mateocastano.dev',
   base: '/',
   output: 'static',
   vite: {
